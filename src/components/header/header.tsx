@@ -8,7 +8,7 @@ export default function Header(){
         
            <div>
              <h1>Hi, I'm Carla Braga!🖐️</h1>
-             <h2>Software Engineer</h2>
+             <h2>FRONTEND DEVELOPER</h2>
            </div>
         <Image
              src="/Eu.png"
