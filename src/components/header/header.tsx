@@ -7,7 +7,7 @@ export default function Header(){
         <div className="header">
         
            <div>
-             <h1>Hi, I'm Carla Braga!🖐️</h1>
+             <h1>Hi, I&apos;m Carla Braga!🖐️</h1>
              <h2>FRONTEND DEVELOPER</h2>
            </div>
         <Image

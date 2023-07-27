@@ -7,8 +7,8 @@ export function Experience(){
         <div className="experience">
 
         <SectionTitle text="About Me"/>
-        <p>I'm Carla Braga and since I was very young, technology has always been part of my life and has become my great passion. 
-            I am currently studying Systems Analysis and Development at Fametro and I have knowledge in technologies such as HTML, CSS, JavaScript, React JS, React Native. I'm always looking to learn more, deepen my knowledge and explore new technologies.</p>
+        <p>I&apos;m Carla Braga and since I was very young, technology has always been part of my life and has become my great passion. 
+            I am currently studying Systems Analysis and Development at Fametro and I have knowledge in technologies such as HTML, CSS, JavaScript, React JS, React Native. I&apos;m always looking to learn more, deepen my knowledge and explore new technologies.</p>
             <SectionTitle text=" My Experience"/>
         <div className="experience-time">
             <div className="experience-language">
