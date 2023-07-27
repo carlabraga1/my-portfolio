@@ -2,6 +2,6 @@ Site :
 
 https://portifoliocarla.vercel.app
 
-<Image src="/imgFundo.png"
+<Image src="public/imgFundo.png"
   alt = "Fundo">
 
